@@ -1,0 +1,8 @@
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\bin\Debug\SqlToEfUnitTestProject.pdb
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\bin\Debug\Library.Common.dll
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\bin\Debug\Library.Common.pdb
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\obj\Debug\SqlToEfUnitTestProject.csprojResolveAssemblyReference.cache
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\obj\Debug\SqlToEfUnitTestProject.pdb
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\bin\Debug\SqlToEfUnitTestProject.exe
+D:\work\TradeVan\LandBank\co\SqlToEfUnitTestProject\obj\Debug\SqlToEfUnitTestProject.exe
